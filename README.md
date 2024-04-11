@@ -1,7 +1,11 @@
 # College Enterprise Resource Planner
 This is a College Enterprise Resource Planner Developed by me and my project partners for my college.
 We use Python/Django Framwork for building an fully functional web application. (If facing problem!! : put discussion)
+<<<<<<< HEAD
 ## Deployed at <a href="https://cec.ac.in/images/CECLogo.jpg" target="_blank" rel="CEC"><img src="media/CEC.jpg" width="20" height="20" alt="CEC" /><span>CEC</span></a>   v1.1.0
+=======
+## Deployed at <a href="https://cec.ac.in/images/CECLogo.jpg" target="_blank" rel="CEC"><img src="media/CEC.png" width="20" height="20" alt="CEC" /><span>CEC</span></a>   v1.1.0
+>>>>>>> 4e9cf19df9e1ec285e04fb27a582f33f2472b7d4
 
 For viewing the home page of student you must have required credentials given below 
 
